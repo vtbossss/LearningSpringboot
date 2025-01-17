@@ -6,7 +6,9 @@ public class Program {
 
         System.out.println(a);
 
-        
+        a.insert(1, " sekh lo");
+
+        System.out.println(a);
         
         
 
